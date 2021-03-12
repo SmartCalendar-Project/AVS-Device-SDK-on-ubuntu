@@ -4,11 +4,12 @@ Account can be created at developer.amazon.com.
 
 Amazon id is used for sign-in
 
-->AVS Dashboard 
 
+select Alexa Voice services 
 ![AVS1](https://user-images.githubusercontent.com/63131401/110988858-14330b80-833f-11eb-9d11-baa0371ac288.png) 
+                             ->AVS Dashboard 
 
-
+Click on Manage Products 
 ![AVS2](https://user-images.githubusercontent.com/63131401/110989185-8146a100-833f-11eb-9df3-c621c8de7aa2.png)
 
 ![AVS3](https://user-images.githubusercontent.com/63131401/110989831-750f1380-8340-11eb-9924-170ec004694c.png)
