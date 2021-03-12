@@ -48,7 +48,6 @@ Under Will your device be used for Alexa for Business?, select No.
 
 ![p3](https://user-images.githubusercontent.com/63131401/110989523-07fb7e00-8340-11eb-804f-0d9f31b7ba5b.png)
 
-![p4](https://user-images.githubusercontent.com/63131401/110989524-08941480-8340-11eb-8b6e-9ee9b8d9723e.png)
 
 ![p5](https://user-images.githubusercontent.com/63131401/110989527-092cab00-8340-11eb-89fb-11629f559f4f.png)
 
