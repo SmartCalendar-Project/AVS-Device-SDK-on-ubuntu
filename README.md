@@ -18,8 +18,12 @@ Amazon id is used for sign-in
 
 
 step 2 - Register product with AVS
+
+
 Information Filled out will identify device with AVS
 
+Fields with * are mandatory to fill in 
+Enter Product Name
 ![p1](https://user-images.githubusercontent.com/63131401/110989515-0631ba80-8340-11eb-85d9-75f37dff0b42.png)
 
 ![p2](https://user-images.githubusercontent.com/63131401/110989520-0762e780-8340-11eb-8296-0c9e31f3aae7.png)
