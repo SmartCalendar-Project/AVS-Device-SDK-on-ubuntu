@@ -8,7 +8,10 @@ Amazon id is used for sign-in
 
 ![AVS1](https://user-images.githubusercontent.com/63131401/110988858-14330b80-833f-11eb-9d11-baa0371ac288.png) 
 
+
 ![AVS2](https://user-images.githubusercontent.com/63131401/110989185-8146a100-833f-11eb-9df3-c621c8de7aa2.png)
+
+![AVS3](https://user-images.githubusercontent.com/63131401/110989831-750f1380-8340-11eb-9924-170ec004694c.png)
 
 
 
@@ -22,6 +25,8 @@ step 2 - Register product with AVS
 ![p4](https://user-images.githubusercontent.com/63131401/110989524-08941480-8340-11eb-8b6e-9ee9b8d9723e.png)
 
 ![p5](https://user-images.githubusercontent.com/63131401/110989527-092cab00-8340-11eb-89fb-11629f559f4f.png)
+
+Step 3 - Setting up AVS Security Profile
 
 
 
