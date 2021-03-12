@@ -18,6 +18,7 @@ Amazon id is used for sign-in
 
 
 step 2 - Register product with AVS
+Information Filled out will identify device with AVS
 
 ![p1](https://user-images.githubusercontent.com/63131401/110989515-0631ba80-8340-11eb-85d9-75f37dff0b42.png)
 
