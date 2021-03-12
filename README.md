@@ -28,16 +28,6 @@ Enter Product Name , Product ID
 Select Device with Alexa Built-in
 
 
-Choose a Product Name. For example, AVS Tutorials Project.
-Choose a Product ID. For example, PrototypePi. Don't use any spaces in your product name.
-In the Please Select Your Product Type dropdown, select Device with Alexa built-in.
-F
-In the Product Category dropdown, select Other (please specify).
-Write a meaningful description in the Brief product description box. For example, Prototype.
-Under How will users interact with your product?, select Hands-free.
-Skip the Upload an image step. This isn't required for prototyping.
-Under Do you intend to distribute this product commercially?, select No.
-Under Will your device be used for Alexa for Business?, select No.
 Under Is this device associated with one or more AWS IoT Core Accounts?, select No.
 Under Is this a children’s product or is it otherwise directed to children younger than 13 years old?, Select No.
 Click NEXT.
@@ -50,6 +40,11 @@ In the Product Category dropdown, select Other (please specify).
 Write a description in the product description box. 
 
 ![p2](https://user-images.githubusercontent.com/63131401/110989520-0762e780-8340-11eb-8296-0c9e31f3aae7.png)
+
+How will users interact with your product?, select Hands-free.
+Upload image step can be skipped .
+Under Do you intend to distribute this product commercially?, select No.
+Under Will your device be used for Alexa for Business?, select No.
 
 ![p3](https://user-images.githubusercontent.com/63131401/110989523-07fb7e00-8340-11eb-804f-0d9f31b7ba5b.png)
 
