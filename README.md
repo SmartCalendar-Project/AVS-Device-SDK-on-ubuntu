@@ -77,6 +77,9 @@ Click Download. your config.json file that contains your AVS credentials. Save t
 ![s4](https://user-images.githubusercontent.com/63131401/110990243-10a08400-8341-11eb-8a91-d1f9bab8eb1f.png)
 
 
+config.json file can be found at 
+https://github.com/SmartCalendar-Project/congf 
+
 
 
 
