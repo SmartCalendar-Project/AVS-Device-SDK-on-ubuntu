@@ -28,9 +28,7 @@ Enter Product Name , Product ID
 Select Device with Alexa Built-in
 
 
-Under Is this device associated with one or more AWS IoT Core Accounts?, select No.
-Under Is this a children’s product or is it otherwise directed to children younger than 13 years old?, Select No.
-Click NEXT.
+
 
 
 ![p1](https://user-images.githubusercontent.com/63131401/110989515-0631ba80-8340-11eb-85d9-75f37dff0b42.png)
@@ -44,11 +42,14 @@ Write a description in the product description box.
 How will users interact with your product?, select Hands-free.
 Upload image step can be skipped .
 Under Do you intend to distribute this product commercially?, select No.
-Under Will your device be used for Alexa for Business?, select No.
+
 
 ![p3](https://user-images.githubusercontent.com/63131401/110989523-07fb7e00-8340-11eb-804f-0d9f31b7ba5b.png)
 
-
+Under Will your device be used for Alexa for Business?, select No.
+Under Is this device associated with one or more AWS IoT Core Accounts?, select No.
+Under Is this a children’s product or is it otherwise directed to children younger than 13 years old?, Select No.
+Click NEXT.
 ![p5](https://user-images.githubusercontent.com/63131401/110989527-092cab00-8340-11eb-89fb-11629f559f4f.png)
 
 
