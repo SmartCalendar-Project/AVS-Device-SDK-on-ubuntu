@@ -9,8 +9,10 @@ Amazon id is used for sign-in
 ![AVS1](https://user-images.githubusercontent.com/63131401/110988858-14330b80-833f-11eb-9d11-baa0371ac288.png) 
                              ->AVS Dashboard 
 
+
 2] Click on Manage Products 
 ![AVS2](https://user-images.githubusercontent.com/63131401/110989185-8146a100-833f-11eb-9df3-c621c8de7aa2.png)
+
 
 3] Click on add New Product
 ![AVS3](https://user-images.githubusercontent.com/63131401/110989831-750f1380-8340-11eb-9924-170ec004694c.png)
@@ -64,6 +66,7 @@ Select the Other devices and platforms tab.
 Under Client ID name, enter a name.
 Click Generate ID.
 Click Download. your config.json file that contains your AVS credentials. Save the file.
+
 
 ![s1](https://user-images.githubusercontent.com/63131401/110990252-1302de00-8341-11eb-84c8-cf8512ed5afd.png)
 
