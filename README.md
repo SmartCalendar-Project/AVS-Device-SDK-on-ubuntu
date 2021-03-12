@@ -17,7 +17,7 @@ Amazon id is used for sign-in
 
 
 
-step 2 - Register product with AVS
+Step 2 - Register product with AVS
 
 
 Information Filled out will identify device with AVS
@@ -55,6 +55,15 @@ Under Will your device be used for Alexa for Business?, select No.
 
 
 Step 3 - Setting up AVS Security Profile
+
+Click Crate New Profile
+Under Security Profile Name, enter a name. 
+Under Security Profile Description, enter a description.
+Click NEXT. Security Profile ID generates.
+Select the Other devices and platforms tab.
+Under Client ID name, enter a name.
+Click Generate ID.
+Click Download. your config.json file that contains your AVS credentials. Save the file.
 
 ![s1](https://user-images.githubusercontent.com/63131401/110990252-1302de00-8341-11eb-84c8-cf8512ed5afd.png)
 
